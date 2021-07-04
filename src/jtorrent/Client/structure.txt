@@ -1,0 +1,19 @@
+7. Problem statement
+8. Architectural diagram 
+9. hardware software requirements
+10. algorithms / API used
+11. high level design Usecase
+12. Test cases 
+13. Screen shots/results/analysis 
+14. Conclusion
+15. Future Scope
+16. References 
+
+Guidelines for Oral 
+1. based on java and android assignments as per the list 
+2. students should prepare the theory being taught in the SDL tutorial as well
+3. should bring their miniprojects in their laptops and their sart phones as well
+4. come prepared with assignments 
+5. know your shit 
+6. write theory behind each assignment in an organized manner
+ 
